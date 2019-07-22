@@ -1,0 +1,4 @@
+config.yaml
+resources.txt
+*.pyc
+*.swp
